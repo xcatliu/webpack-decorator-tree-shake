@@ -46,6 +46,7 @@ Is there a way to tree-shake decorator in webpack build?
 Related issue:
 - https://github.com/evanw/esbuild/issues/649
 - https://www.npmjs.com/package/vite-plugin-tree-shakable-decorators
+- https://webpack.js.org/guides/tree-shaking/#clarifying-tree-shaking-and-sideeffects
 
-Vite seems to have a plugin to do this.
+Vite seems to have a plugin to do this but webpack haven't.
 
