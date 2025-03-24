@@ -2,6 +2,8 @@
 
 Try to shake decorator in webpack build
 
+Stackoverflow link: https://stackoverflow.com/questions/79531083/is-there-a-way-to-tree-shake-decorator-in-webpack-build
+
 Please run `npm install && npm run build` in this repo.
 
 ```ts
